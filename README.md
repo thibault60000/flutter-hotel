@@ -1,16 +1,7 @@
-# hotels
+# Application réservation Hotel
 
-A new Flutter project.
+Design uniquement
 
-## Getting Started
+<img width="1014" alt="Capture d’écran 2022-09-13 à 22 02 41" src="https://user-images.githubusercontent.com/18366294/189998125-7479884a-752b-44b9-a6e1-70673a8bd49e.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="404" alt="Capture d’écran 2022-09-13 à 22 02 50" src="https://user-images.githubusercontent.com/18366294/189998145-fac02104-1639-4f4c-9151-3ee686f7f0cd.png">
