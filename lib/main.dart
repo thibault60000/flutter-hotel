@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
+import 'package:hotels/calendar_page.dart';
+
 const primaryColor = Color(0xFF54D3C2);
 
 void main() {
@@ -83,7 +85,12 @@ class SearchSection extends StatelessWidget {
                     ),
                     // Button Search
                     child: ElevatedButton(
-                        onPressed: () {},
+                        onPressed: () {
+                          Navigator.push(context,
+                              MaterialPageRoute(builder: (context) {
+                            return const CalendarPage();
+                          }));
+                        },
                         style: ElevatedButton.styleFrom(
                             shape: const CircleBorder(),
                             backgroundColor: primaryColor,
